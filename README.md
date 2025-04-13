@@ -54,4 +54,4 @@ This repo shows exactly where `useRef` fails silently — and how **callback ref
 ```bash
 git clone https://github.com/yourusername/callback-ref-vs-useref
 npm install
-npx start dev
+npm start dev
